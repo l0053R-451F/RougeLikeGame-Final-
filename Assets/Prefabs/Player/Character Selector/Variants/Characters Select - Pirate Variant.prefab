@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7659749851182693143
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2434488045695454344, guid: 3cdd26869d03ee745952e3548c726fa8,
+        type: 3}
+      propertyPath: m_Name
+      value: Characters Select - Pirate
+      objectReference: {fileID: 0}
+    - target: {fileID: 5261561357630229173, guid: 3cdd26869d03ee745952e3548c726fa8,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.02412
+      objectReference: {fileID: 0}
+    - target: {fileID: 5261561357630229173, guid: 3cdd26869d03ee745952e3548c726fa8,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 13.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 5261561357630229173, guid: 3cdd26869d03ee745952e3548c726fa8,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5261561357630229173, guid: 3cdd26869d03ee745952e3548c726fa8,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5261561357630229173, guid: 3cdd26869d03ee745952e3548c726fa8,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5261561357630229173, guid: 3cdd26869d03ee745952e3548c726fa8,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5261561357630229173, guid: 3cdd26869d03ee745952e3548c726fa8,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5261561357630229173, guid: 3cdd26869d03ee745952e3548c726fa8,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5261561357630229173, guid: 3cdd26869d03ee745952e3548c726fa8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5261561357630229173, guid: 3cdd26869d03ee745952e3548c726fa8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5261561357630229173, guid: 3cdd26869d03ee745952e3548c726fa8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824869360378113199, guid: 3cdd26869d03ee745952e3548c726fa8,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1960546628078278901, guid: a47294d8f066c634d90ee371916313ff,
+        type: 3}
+    - target: {fileID: 4803871728993370608, guid: 3cdd26869d03ee745952e3548c726fa8,
+        type: 3}
+      propertyPath: m_Text
+      value: '''The Pirate'''
+      objectReference: {fileID: 0}
+    - target: {fileID: 3773310159004440760, guid: 3cdd26869d03ee745952e3548c726fa8,
+        type: 3}
+      propertyPath: playerToSpawn
+      value: 
+      objectReference: {fileID: 1173099955804765908, guid: 6c5ca940c19489645afe496a7ae7c3c9,
+        type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3cdd26869d03ee745952e3548c726fa8, type: 3}
